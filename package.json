@@ -1,0 +1,25 @@
+{
+  "name": "javascript-experiments",
+  "version": "1.0.0",
+  "description": "experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memiev/javascript-experiments.git"
+  },
+  "author": "Denis Memiev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/memiev/javascript-experiments/issues"
+  },
+  "homepage": "https://github.com/memiev/javascript-experiments#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^3.0.6",
+    "simple-git": "^2.39.0"
+  }
+}
